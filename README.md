@@ -1,6 +1,6 @@
 # Snake-Game-Python
 
-![Snake Game](snake_game.png)
+![Snake Game](snake_pic.png)
 
 ## Introduction
 
