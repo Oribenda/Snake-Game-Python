@@ -21,7 +21,7 @@ To play the Snake Game, follow these simple steps:
 3. **Run the Game**: Execute the game by running the `snake_game.py` script:
 
    ```shell
-   python snake_game.py
+   python snake.py
    ```
 
 4. **Game Controls**:
